@@ -85,4 +85,5 @@ target_link_libraries( native-lib
                       swresample-1
                       swscale-3
                       avfilter-5
+                      android
                       ${log-lib} )
